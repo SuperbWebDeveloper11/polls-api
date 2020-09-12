@@ -139,6 +139,6 @@ cython_debug/
 
 media/
 # this line does note work
-polls/migrations/
+migrations/
 
 .env
